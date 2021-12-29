@@ -33,6 +33,6 @@ git tag -d v1.40
 git push origin --delete v1.4
 git push origin --delete v1.40
 ```
-![](images/test.png)
+![](https://github.com/yasminekamal/branches/blob/main/images/index.png)
 
 
