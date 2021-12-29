@@ -19,3 +19,17 @@ git branch -d test
 ```
 git branch -D dev
 ```
+# to list tags locally
+```
+git tag
+```
+# to delete tag locally
+```
+git tag -d v1.4
+git tag -d v1.40
+```
+# to delete tag remotely
+```
+git push origin --delete v1.4
+git push origin --delete v1.40
+```
